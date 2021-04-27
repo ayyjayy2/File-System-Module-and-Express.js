@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "1",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "2",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "3",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "4",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "5",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "6",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    },
+    {
+        "_id": "7",
+        "name": "Black Panther",
+        "language": "English",
+        "rate": 4.5,
+        "type": "Action Adventure Fantasy",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg"
+    }
+]

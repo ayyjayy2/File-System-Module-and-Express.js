@@ -1,0 +1,25 @@
+{
+  "name": "module2demo1",
+  "version": "1.0.0",
+  "description": "started 4/27/2021. following module2 demo1: File System Module and Express.js from Edureka ILP Training.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "web",
+    "application",
+    "PM2",
+    "Nginx"
+  ],
+  "author": "Alayna Johnston",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}

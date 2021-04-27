@@ -1,0 +1,19 @@
+npm init
+npm i express
+npm i nodemon
+    nodemon app.js (continuous run/refresh)
+** new cmd **
+npm i -g pm2
+    pm2 start app.js (start pm2)
+download stable version Nginx: https://nginx.org/en/download.html    
+    extract into c:/program files
+    change .conf file 
+
+
+
+notes:
+pm2 aids in reverse proxy 
+
+PM2: 'a production process amnager for Node.js apps that has a built-in load balancer. It allows you to keep
+    apps running forever, reloads them without downtime, helps to amnage app logging, monitoring, and clustering.'
+        - expressjs.com 
